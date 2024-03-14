@@ -2,6 +2,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Link de GitHub Pages: <a>https://spiderpaul.github.io/firedog.github.io/</a>
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://github.com/Spiderpaul/firedog.github.io/assets/87204262/3736a1e2-167a-4004-b472-bb048f0a38ca" alt="Firedog" />
+</div>
 
 # Descripción del proyecto
 Es un pequeño videojuego realizado con <b>JavaSript y Canvas</b>, que pone en práctica la lógica de programación, el uso de clases e instancias con JavaScript, 
